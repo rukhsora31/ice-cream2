@@ -157,12 +157,16 @@
 .section3 {
     background: #F8EDF0;
     padding: 50px 0;
+    
 }
 
-h2 {
-    text-align: center;
-    padding-top: 100px;
+.section4 {
+    h2 {
+        text-align: center;
+        padding-top: 100px;
+    }
 }
+
 
 .menu4 {
     display: flex;
