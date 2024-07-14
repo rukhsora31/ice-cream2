@@ -195,6 +195,11 @@ h2 {
         flex-direction: column;
     }
 }
+.wrap44{
+    @media (max-width: 1000px) {
+        flex-direction: column-reverse;
+    }
+}
 
 .box4 {
     max-width: 450px;
